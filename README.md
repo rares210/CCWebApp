@@ -1,2 +1,2 @@
 # CCWebApp
-Infrastructura WebApp pentru gestionarea concediilor
+Infrastructura WebApp pentru gestionarea concediilor si management.
